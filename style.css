@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.size-auto{
+    width: 100%;
+    height: auto;
+}
+
+.back-green{
+    background-color: rgb(14, 208, 121);
+}
+
+.quem-somos{
+    background-color: rgb(224, 255, 241);
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: rgb(175, 199, 188);
+    padding-bottom: 30px;
+}
+
+.parceiros img{
+    width: 70%;
+    height: auto;
+}
+
+.servico img{
+    width: 70%;
+    height: auto;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.padding{
+    padding-left: 20px;
+}
